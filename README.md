@@ -7,7 +7,6 @@
   <a href="https://github.com/Ricky13170"><img src="https://img.shields.io/badge/GitHub-Ricky13170-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
   <a href="mailto:doanngocbao1552004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0E7490?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
   <a href="tel:+84382678822"><img src="https://img.shields.io/badge/Phone-Contact-4338CA?style=for-the-badge" alt="Phone" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ricky13170&amp;style=for-the-badge&amp;color=6366F1" alt="Profile views" />
 </p>
 
 </div>
