@@ -92,13 +92,6 @@ Currently Exploring / Building With
 </tr>
 </table>
 
-📊 GitHub Activity
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ricky13170&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky13170&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;langs_count=6" alt="Most-used repository languages" />
-</div>
-
-<sub>Stats reflect public GitHub activity and repository language distribution, not overall engineering proficiency. Third-party cards may occasionally be unavailable.</sub>
 💬 Let's Connect
 Interested in LLM apps, RAG, agentic workflows, and practical AI engineering? I'm happy to exchange ideas.
 <p align="center">
